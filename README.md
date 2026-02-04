@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-Repository ini berisi *source code* untuk **Tugas Besar Visualisasi Data**. Aplikasi ini dikembangkan sebagai dashboard interaktif untuk menganalisis pola curah hujan, kecepatan angin, dan suhu di Kota Bandung menggunakan data historis.
+Repository ini berisi *source code* untuk **Tugas Besar Pemrograman Dasar Sains Data**. Aplikasi ini dikembangkan sebagai dashboard interaktif untuk menganalisis pola curah hujan, kecepatan angin, dan suhu di Kota Bandung menggunakan data historis.
 
 ---
 
