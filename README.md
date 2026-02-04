@@ -45,7 +45,7 @@ Dashboard ini dirancang untuk memudahkan pemantauan dan analisis cuaca dengan fi
 ## 📂 Struktur File
 
 * `app_visualisasi_dan_gis.py`: File utama kode program Python (Script Aplikasi).
-* `scraping_curah_hujan_ex.py`: File untuk scrapping data ke situs Open-Meteo.*
+* `scraping_curah_hujan_ex.py`: File untuk scrapping data ke situs Open-Meteo.
 * `curah_hujan_bandung.xlsx`: File data dari hasil scrapping.
 * `style.css`: File CSS untuk kustomisasi tampilan antarmuka (*Custom UI*).
 * `requirements.txt`: Daftar dependensi library untuk proses deployment.
