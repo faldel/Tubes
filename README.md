@@ -86,8 +86,9 @@ Data yang digunakan dalam visualisasi ini bersumber dari:
 
 ## 👥 Identitas Pembuat
 
-**Tugas Besar Visualisasi Data - Kelompok 3**
-**Universitas Komputer Indonesia (UNIKOM)**
+**Tugas Besar Pemrograman Dasar Sains Data** 
+
+**Kelompok 3**
 
 **Anggota Tim:**
 1. ZAGAR BAYU KUSUMA
@@ -96,4 +97,5 @@ Data yang digunakan dalam visualisasi ini bersumber dari:
 4. MOHAMAD RIFALDY FIRDAUS
 5. NAZLA MUFIDAH
 
+**Universitas Komputer Indonesia (UNIKOM)**
 ---
