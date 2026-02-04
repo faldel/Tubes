@@ -86,9 +86,7 @@ Data yang digunakan dalam visualisasi ini bersumber dari:
 
 ## 👥 Identitas Pembuat
 
-**Tugas Besar Pemrograman Dasar Sains Data** 
-
-**Kelompok 3**
+**Tugas Besar Pemrograman Dasar Sains Data - Kelompok 3** 
 
 **Anggota Tim:**
 1. ZAGAR BAYU KUSUMA
@@ -98,4 +96,5 @@ Data yang digunakan dalam visualisasi ini bersumber dari:
 5. NAZLA MUFIDAH
 
 **Universitas Komputer Indonesia (UNIKOM)**
+
 ---
