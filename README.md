@@ -21,8 +21,8 @@ Dashboard ini dirancang untuk memudahkan pemantauan dan analisis cuaca dengan fi
 
 1.  **Ringkasan Statistik (KPI)**: Menampilkan rata-rata curah hujan, suhu, kecepatan angin, serta nilai ekstrem (tertinggi/terendah).
 2.  **Grafik Tren Interaktif**:
-    * 📊 **Bar Chart**: Visualisasi intensitas curah hujan harian.
-    * 📈 **Area Chart**: Visualisasi fluktuasi kecepatan angin dan suhu rata-rata.
+    * 📊 **Bar Chart**: Visualisasi intensitas dan curah hujan.
+    * 📈 **Area Chart**: Visualisasi fluktuasi kecepatan angin dan suhu.
 3.  **Analisis Distribusi**: Grafik batang horizontal untuk melihat frekuensi kategori hujan (Ringan, Sedang, Lebat, dll).
 4.  **Peta GIS Interaktif (Folium)**: Peta lokasi stasiun pengamatan dengan radius visual dan *popup* informasi status cuaca (Aman/Waspada).
 5.  **Filter Data Dinamis**:
@@ -97,4 +97,3 @@ Data yang digunakan dalam visualisasi ini bersumber dari:
 5. NAZLA MUFIDAH
 
 ---
-*Dibuat dengan ❤️ menggunakan Streamlit*
