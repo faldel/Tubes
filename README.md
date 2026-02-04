@@ -58,7 +58,7 @@ Jika ingin menjalankan aplikasi ini di komputer sendiri tanpa internet:
 
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/faldel/Tubes.git](https://github.com/faldel/Tubes.git)
+    git clone https://github.com/faldel/Tubes.git
     ```
 2.  **Masuk ke direktori project:**
     ```bash
@@ -71,9 +71,8 @@ Jika ingin menjalankan aplikasi ini di komputer sendiri tanpa internet:
     ```
 4.  **Jalankan aplikasi:**
     ```bash
-    streamlit run "NAMA_FILE_PYTHON_KAMU.py"
+    streamlit run app_visualisasi_dan_gis.py
     ```
-    *(Catatan: Ganti `NAMA_FILE_PYTHON_KAMU.py` dengan nama file python yang ada di folder)*
 
 ---
 
